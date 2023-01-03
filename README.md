@@ -1,1 +1,1 @@
-# helloVuex
+# HelloVuex
